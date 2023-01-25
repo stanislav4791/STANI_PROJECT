@@ -1,3 +1,3 @@
 # Testaus tiedosto
-def funct():
-    pass
+# def funct():
+#     pass
